@@ -211,3 +211,11 @@ form p{
     margin-left: 10px;
   }
 }
+@media (max-width: 675px) {
+  .cart{
+    margin-left: 3% ;
+  }
+  .cart-items-wrapper{
+    margin-left: 20px;
+  }
+}
