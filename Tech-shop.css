@@ -448,3 +448,22 @@ form p{
     font-size: 25px;
     color: white;
 }
+@media (max-width: 426px) {
+  .products-list{
+    margin-left: 50px;
+}
+.sidehead{
+  margin-left: 0px;
+  gap:2px;
+}
+}
+@media (max-width: 770px) {
+  .products-list{
+    
+    margin-left: 120px;
+}
+.sidehead{
+  margin-left: 10px;
+  gap:4px;
+}
+}
