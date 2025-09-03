@@ -203,3 +203,11 @@ form p{
 .checkout-btn:hover {
   background-color: red;
 }
+@media (max-width: 426px) {
+  .cart{
+    margin-left: 1% ;
+  }
+  .cart-items-wrapper{
+    margin-left: 10px;
+  }
+}
