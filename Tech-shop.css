@@ -151,7 +151,7 @@ form p{
   right: 0;
   display: flex;
   justify-content: center;
-  gap: 8px;
+  gap: 7px;
 }
 
 .carousel-indicators.custom-indicators button {
