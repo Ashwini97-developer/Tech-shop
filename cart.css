@@ -1,6 +1,7 @@
 body{
   background-color: black !important;
 }
+/* navbar */
 .btn{
  color:white !important;
  padding-left: 0% !important;
@@ -76,7 +77,7 @@ form p{
   margin-top: -25rem;
 }
 
-
+/* cart page */
 .cart-container{
   margin-top: -38px;
   background-color: black;
