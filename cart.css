@@ -14,7 +14,7 @@ body{
 
 /* footer */
 .footer{
-  margin-top: 10px;
+  margin-top: 200px;
   display: grid;
   margin-bottom: 0px !important;
   padding-bottom: 0px;
@@ -192,8 +192,8 @@ form p{
   margin-top: 50px;
   font-size: 16px;
   font-weight: bold;
-  background-color: red;
-  /* color: white; */
+  background-color: red !important;
+  color: white;
   border: none;
   border-radius: 6px;
   cursor: pointer;
