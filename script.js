@@ -79,7 +79,7 @@ function filterProducts(category) {
     localStorage.setItem('cart', JSON.stringify(cart));
     let btn = event.target;
     btn.innerText = "Added";
-    btn.style.backgroundColor = "blue";
+    btn.style.backgroundColor = "green";
     btn.style.color = "white";
     btn.style.pointerEvents = "none"; 
     updateCartCount();

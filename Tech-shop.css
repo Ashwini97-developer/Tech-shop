@@ -375,7 +375,7 @@ form p{
     align-items: center;
     margin-left: 12px;
     margin-top: 40px;
-    gap: 10px;
+    gap: 7px;
     flex-wrap: wrap;
     margin-bottom: 10px;
 }
@@ -430,9 +430,9 @@ form p{
     background-color: red;
 }
 .cart-button a{
+    padding: 6px 60px 8px 60px;
     text-decoration: none;
     color: white;
-
 }
 .item-list1{
     border: 2px solid white;
